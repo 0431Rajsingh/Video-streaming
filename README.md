@@ -19,6 +19,7 @@ and JavaScript for the frontend, while PHP and MySQL handle the backend function
  - PHP
  - FFMPEG
  - MYSQL
+   
 # How to run ⚙️
 
  To run this Project some tools are required. listed below:
